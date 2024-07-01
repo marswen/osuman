@@ -15,7 +15,7 @@ install.packages('IRkernel')
 IRkernel::installspec()
 ```
 
-4. Install Tidyverse
+4. Install tidyverse
 ```
 install.packages('tidyverse')
 ```
